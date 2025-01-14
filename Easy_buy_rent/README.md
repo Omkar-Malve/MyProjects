@@ -1,11 +1,11 @@
 <h2>Project Name ----> Sweet Home Real Estate</h2>
-<h2>Tech Stack ----> Node, React, Redux, Firebase, Express </h2>
+<h2>Tech Stack ----> Node, React, Redux, Firebase </h2>
 <h2>Node version ----> 22.12.0</h2>
 <h2>React version ----> 18.3.1</h2>
-<h2>Deployed link -----> https://easy-buy-or-rent.netlify.app/ </h2>
+<h2>Deployed link -----> https://easy-buy-sell-or-rent.netlify.app/ </h2>
 <br/>
 <br/>
-
+https://easy-buy-sell.netlify.app/
 <h2>Dependencies</h2>
 <h3>axios ---> 1.7.9<h3>
 <h3>react-redux ---> 9.2.0</h3>
